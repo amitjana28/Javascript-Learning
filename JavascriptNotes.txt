@@ -1,0 +1,46 @@
+Javascript is a dynamically typed scripting language or we can say that it is a light weight programming language that can be run on browser i.e, client side and when javascript is combined 
+with c++ language it is called as node which is used for backend creation which is help is server side programming.
+
+HTML is used for structure of a webpage whereas CSS for styling and Javascript for Behaviour.
+
+Initially it is known as MOcha, livescript and then it is called as javascript.
+
+To run a JS code in browser then browser should have JS Engine in it. JS engine is helps to convert JS code to machine understandable code.
+
+Javascript can be run on browser as well as IDE.
+- for browser on inspect tool and open console the right JS script and then run
+- for VS code we can write code and run using nodeJS. Also we can open terminal go to correct directory and write "node fileName.js" and hit enter
+
+How we can add JS in HTML?
+- Inline scripting : Using Script tag, we can add script tag inside head tag and body tag either opening if body tag or closing of body tag. Best practise is to
+add in end of body tag
+- External Scripting : We can create a js file ad write our code and pass that inside script tag using src attribute
+
+Variables : It is a names memory locations such as var age = 25; or const name = "Amit jana" or let rollNo = 251802108;
+- var : It is used to create variables in JS it is function scope and globally scoped not blocked scoped and it can be redefined and reassigned.
+- let : It is used to create variable and it is blocked scoped can be redefined and reassigned.
+- const : It is used to create constant variable that can't be changed. But const object like arrays can be changed.
+
+Variable naming convesions rule are:
+- it can start with number, underscore or sign or symbole like doller
+- no space between names and follow camelCase only. Ex : let ageOfStudents
+- variable name should be meaningfull and reserved keyword can't be used as name.
+
+Datatypes in Javascript :  Primitive and non premitive Datatypes
+
+Primitive data types :
+- BigInt : when we have to write a number that is greater then or less then -2 to the power 53 -1 to  + 2^53-1
+- number : integer, decimal
+- Strings : characters or sentance or word
+- null : 
+- undefined : when we declare and variable but not define its value then its undefined such as let name; and we try to print name it should be undefined
+- boolean : true or false
+- symbols : 
+
+typeof(variableName) : it is used to check the Datatypes of a variable.
+
+
+Operators : 
+
+
+
