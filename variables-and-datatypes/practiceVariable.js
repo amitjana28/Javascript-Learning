@@ -1,4 +1,4 @@
-// In js we cna create variable using 3 ways var, let and const
+// In js we can create variable using 3 ways : var, let and const
 
 // var is a global scope and function scope variable and can be redeclared, redefined and reassigned.
     var a = 15;
